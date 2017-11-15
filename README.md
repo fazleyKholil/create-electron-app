@@ -11,5 +11,4 @@ _an example app for using React with Electron_
 **FOR PRODUCTION**
 * Run `npm run postinstall` to compile all your assets into `dist/bundle.js`
 * Change the script tag in `dist/index.html` to use `bundle.js` as its source
-* Run `npm start` to start electron
-*
+* Run `npm start` to start electron as a destop app
