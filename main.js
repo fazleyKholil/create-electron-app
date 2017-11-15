@@ -1,8 +1,10 @@
 'use strict';
 
 var electron = require('electron');
+
 // Module to control application life.
 var app = require('app');
+
 // Module to create native browser window.
 var BrowserWindow = require('browser-window')
 
